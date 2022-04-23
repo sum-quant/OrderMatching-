@@ -1,8 +1,8 @@
 /*
  * Main.cpp
  *
- *  Created on: May 3, 2015
- *      Author: lzy
+ *  
+ *      Author: sumit kumar
  */
 
 #include <iostream>
